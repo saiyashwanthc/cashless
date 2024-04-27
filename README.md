@@ -30,3 +30,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [ ] fix scaling factor
 - [ ] upper limit of specify pages for pdf documents
 - [ ] fix the download bug
+- [ ] work on v 2.0
